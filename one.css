@@ -1,0 +1,50 @@
+ ul li
+ {
+    display: inline;
+    margin-left:100px ;
+ }
+ ul{
+    background-color: aqua;
+ }
+
+ ul li a{
+    text-decoration: none;
+ }
+
+ .c1{
+   
+//border: 6px dotted red;
+width: 250px;
+height: 250px; 
+ 
+//background-color: aqua;
+float: left;
+ }
+
+ #d1{
+   float: right;
+ }
+
+ #d2{
+   margin-left: 350px;
+ }
+ .p1{
+   text-align: center;
+ }
+ 
+ #a1 :visited{
+   color: green;
+
+
+ }
+ #a1 :link{
+color: blue;
+ }
+
+ #a1 :active{
+   color: rgb(255, 106, 0);
+ }
+
+ #a1 :hover{
+   color:midnightblue;
+ }

@@ -1,0 +1,25 @@
+   
+        #p1
+        {
+            color: red;
+            background-color:pink;
+            text-align: center;
+            font-weight:bold;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Times, serif;
+            font-style: italic;
+        }
+        
+        .c1
+        {
+            color:blue;
+        }
+        h1{
+            color: blue;
+            text-decoration: line-through;
+            text-transform:lowercase ;
+            text-indent: 100px;
+        }
+        
+        body{
+            background-image: url(normal.jpg)
+        }
